@@ -1,0 +1,14 @@
+# build output
+build/
+*.o
+*.a
+# Windows build leftovers from earlier projects
+*.exe
+*.obj
+*.pdb
+*.ilk
+# editor / OS
+.vscode/
+.DS_Store
+# submission backups
+*.zip
